@@ -8,6 +8,8 @@
 
 ## Career Change to iOS Developer https://chrishefferman.squarespace.com/blog/career-change
 
+## iOS Chats https://twitter.com/nemecek_f/status/1419971798565888004?s=21 website https://nemecek.be/chats/
+
 # Tools
 
 ## Charles Proxy https://www.charlesproxy.com/
